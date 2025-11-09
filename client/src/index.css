@@ -1,0 +1,21 @@
+/*
+ * This directive injects Tailwind's 'base' styles.
+ * It includes a modern CSS reset to ensure your website
+ * looks consistent across all browsers.
+ */
+@tailwind base;
+
+/*
+ * This directive injects Tailwind's component classes.
+ * These are pre-built, unopinionated classes that you can
+ * easily override.
+ */
+@tailwind components;
+
+/*
+ * This directive injects all of Tailwind's utility classes.
+ * This is the core of Tailwind, giving you classes like
+ * `p-4`, `flex`, `text-center`, etc., to build your designs.
+ */
+@tailwind utilities;
+
