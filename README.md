@@ -17,4 +17,3 @@ Backend	Node.js / Express.js
 Database	PostgreSQL
 Visualization	Chart.js or D3.js
 Version Control	Git & GitHub
-Deployment (optional)	Netlify (frontend) + Render / Railway (backend)
